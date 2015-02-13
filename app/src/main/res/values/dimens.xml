@@ -1,0 +1,14 @@
+<resources>
+
+    <dimen name="voicetool_record_total_width">52dp</dimen>
+    <dimen name="voicetool_record_total_height">52dp</dimen>
+    <dimen name="voicetool_container_width">282dp</dimen>
+    <dimen name="voicetool_container_height">63dp</dimen>
+    <dimen name="voicetool_record_button_width">27dp</dimen>
+    <dimen name="voicetool_record_button_height">27dp</dimen>
+    <dimen name="voicetool_record_graph_width">165dp</dimen>
+    <dimen name="voicetool_record_graph_height">56dp</dimen>
+    <dimen name="voicetool_play_button_width">38dp</dimen>
+    <dimen name="voicetool_play_button_height">38dp</dimen>
+
+</resources>

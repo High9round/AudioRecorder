@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="372dp"
+        android:layout_height="186dp"
+        android:background="#00000000"
+        android:padding="9dp" >
+
+        <LinearLayout
+            android:id="@+id/voicetool_record_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true" >
+
+            <ImageButton
+                android:id="@+id/voicetool_record_start_button"
+                android:layout_width="@dimen/voicetool_record_button_width"
+                android:layout_height="@dimen/voicetool_record_button_height"
+                android:background="@android:color/transparent"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_record" >
+            </ImageButton>
+
+            <ImageButton
+                android:id="@+id/voicetool_record_stop_button"
+                android:layout_width="@dimen/voicetool_record_button_width"
+                android:layout_height="@dimen/voicetool_record_button_height"
+                android:background="@android:color/transparent"
+                android:scaleType="centerInside"
+                android:src="@drawable/ic_pause"
+                android:visibility="gone" >
+            </ImageButton>
+
+        </LinearLayout>
+
+        <FrameLayout
+            android:id="@+id/voicetool_state_container"
+            android:layout_width="@dimen/voicetool_record_graph_width"
+            android:layout_height="@dimen/voicetool_record_graph_height"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/voicetool_record_container"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_toStartOf="@+id/voicetool_play_start_button">
+
+            <SeekBar
+                android:id="@+id/voicetool_seekbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:max="0"
+                android:progress="0"
+                android:thumb="@android:color/transparent" />
+
+        </FrameLayout>
+
+        <ImageButton
+            android:id="@+id/voicetool_delete_button"
+            android:layout_width="@dimen/voicetool_play_button_width"
+            android:layout_height="@dimen/voicetool_play_button_height"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@android:color/transparent"
+            android:src="@android:drawable/ic_menu_delete" />
+
+        <ImageButton
+            android:id="@+id/voicetool_play_start_button"
+            android:layout_width="@dimen/voicetool_play_button_width"
+            android:layout_height="@dimen/voicetool_play_button_height"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/voicetool_delete_button"
+            android:background="@android:color/transparent"
+            android:src="@android:drawable/ic_media_play" />
+
+        <ImageButton
+            android:id="@+id/voicetool_play_stop_button"
+            android:layout_width="@dimen/voicetool_play_button_width"
+            android:layout_height="@dimen/voicetool_play_button_height"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/voicetool_delete_button"
+            android:background="@android:color/transparent"
+            android:src="@android:drawable/ic_media_pause"
+            android:visibility="gone" />
+
+        <ImageButton
+            android:id="@+id/voicetool_play_back_button"
+            android:layout_width="@dimen/voicetool_play_button_width"
+            android:layout_height="@dimen/voicetool_play_button_height"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/voicetool_delete_button"
+            android:background="@android:color/transparent"
+            android:src="@android:drawable/ic_media_rew"
+            android:visibility="gone" />
+
+        <ImageButton
+            android:id="@+id/button_save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SAVE"
+            android:background="#00000000"
+            android:src="@drawable/ic_save_black_48dp"
+            android:layout_below="@+id/voicetool_state_container"
+            android:layout_alignParentStart="true" />
+
+    </RelativeLayout>
+
+</LinearLayout>

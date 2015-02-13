@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- White Top color -->
+    <item>
+        <shape android:shape="rectangle" >
+            <solid android:color="#77343434" />
+
+            <corners android:radius="3dp" />
+
+            <size
+                android:height="24dp"
+                android:width="24dp" />
+        </shape>
+    </item>
+
+    <!-- White Top color -->
+    <item>
+        <shape android:shape="rectangle" >
+            <solid android:color="#77343434" />
+
+            <corners android:radius="3dp" />
+
+            <size
+                android:height="12dp"
+                android:width="12dp" />
+        </shape>
+    </item>
+
+</layer-list><!-- From: file:/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/src/main/res/drawable/ic_pause_prs.xml -->

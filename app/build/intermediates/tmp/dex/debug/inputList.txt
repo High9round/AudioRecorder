@@ -1,0 +1,8 @@
+/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/classes/debug
+/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-587e8663669e8955f1c60d8229352c753f71aad1.jar
+/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/pre-dexed/debug/gson-2.2.4-90e61f3d2fd7264117e5e354a8fb47f269f88ce0.jar
+/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-5511b1140bdf6414632872381fa66acc7e9fb4e1.jar
+/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/pre-dexed/debug/commons-io-2.4-ad25d02d7d615a5c38bf7104201933e1afbac66c.jar
+/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/pre-dexed/debug/classes-1970ccb395566bdd572f1be1329cd35b40949016.jar
+/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/pre-dexed/debug/jump3r-1.0.3-70b02f13aaaf4003d454b38a0321a9ced336ff35.jar
+/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/pre-dexed/debug/classes-e1cf161423e89d286275e0038168bdc57f337f4b.jar

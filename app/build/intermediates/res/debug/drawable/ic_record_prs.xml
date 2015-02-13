@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Bottom Shadow -->
+    <item>
+        <shape android:shape="oval" >
+            <padding
+                android:bottom="2dp"
+                android:left="0dp"
+                android:right="2dp"
+                android:top="0dp" />
+
+            <gradient
+                android:centerColor="#FF5555"
+                android:endColor="#00000000"
+                android:gradientRadius="48"
+                android:startColor="#FF000000"
+                android:type="radial" >
+            </gradient>
+        </shape>
+    </item>
+
+    <!-- White Top color -->
+    <item>
+        <shape android:shape="oval" >
+            <solid android:color="#77FF0000" />
+
+            <size
+                android:height="48dp"
+                android:width="48dp" />
+        </shape>
+    </item>
+
+</layer-list><!-- From: file:/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/src/main/res/drawable/ic_record_prs.xml -->

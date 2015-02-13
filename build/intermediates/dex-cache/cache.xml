@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-5511b1140bdf6414632872381fa66acc7e9fb4e1.jar" />
+    </item>
+    <item
+        jar="/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/libs/jump3r-1.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c93318bf54710f9ebb425bb4ea7f4c791983929b">
+        <dex dex="/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/pre-dexed/debug/jump3r-1.0.3-70b02f13aaaf4003d454b38a0321a9ced336ff35.jar" />
+    </item>
+    <item
+        jar="/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/pre-dexed/debug/commons-io-2.4-ad25d02d7d615a5c38bf7104201933e1afbac66c.jar" />
+    </item>
+    <item
+        jar="/Users/KimTaeheon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-587e8663669e8955f1c60d8229352c753f71aad1.jar" />
+    </item>
+    <item
+        jar="/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/pre-dexed/debug/classes-e1cf161423e89d286275e0038168bdc57f337f4b.jar" />
+    </item>
+    <item
+        jar="/Users/KimTaeheon/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/pre-dexed/debug/gson-2.2.4-90e61f3d2fd7264117e5e354a8fb47f269f88ce0.jar" />
+    </item>
+    <item
+        jar="/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/KimTaeheon/Documents/AndroidstudioProjects/AudioRecorder/app/build/intermediates/pre-dexed/debug/classes-1970ccb395566bdd572f1be1329cd35b40949016.jar" />
+    </item>
+
+</items>
